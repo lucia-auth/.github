@@ -20,5 +20,5 @@ await lucia.validateSession(session.id);
 
 ## Related libraries
 
-- [Oslo](https://github.com/pilcrowonpaper/oslo)
+- [Oslo](https://github.com/oslo-project)
 - [Arctic](https://github.com/pilcrowonpaper/arctic)
